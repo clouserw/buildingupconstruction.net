@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Star -->
+    <path d="M32 4 L38 24 L58 24 L42 36 L48 56 L32 44 L16 56 L22 36 L6 24 L26 24 L32 4Z" 
+          stroke="#e67e22" 
+          stroke-width="4" 
+          fill="none"
+          stroke-linejoin="round"/>
+</svg> 

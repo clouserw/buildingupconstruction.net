@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Shield -->
+    <path d="M32 4 L56 16 V28 C56 40 45 50 32 60 C19 50 8 40 8 28 V16 L32 4Z" 
+          stroke="#e67e22" 
+          stroke-width="4" 
+          fill="none"/>
+    <!-- Checkmark -->
+    <path d="M20 32 L28 40 L44 24" 
+          stroke="#e67e22" 
+          stroke-width="4" 
+          stroke-linecap="round" 
+          stroke-linejoin="round"/>
+</svg> 

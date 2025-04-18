@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- First chat bubble -->
+    <path d="M44 8 H12 C8 8 4 12 4 16 V36 C4 40 8 44 12 44 H16 L20 52 L24 44 H44 C48 44 52 40 52 36 V16 C52 12 48 8 44 8Z" 
+          stroke="#e67e22" 
+          stroke-width="4" 
+          fill="none"
+          stroke-linejoin="round"/>
+    <!-- Second chat bubble -->
+    <path d="M24 20 L44 20 M24 32 L36 32" 
+          stroke="#e67e22" 
+          stroke-width="4" 
+          stroke-linecap="round"/>
+</svg> 
